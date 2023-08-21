@@ -1,0 +1,6 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_jidokaacademy_course_manajer,jidokaacademy.course_manajer,model_jidokaacademy_course,jidokaacademy.jidokaacademy_manajer,1,1,1,1
+access_jidokaacademy_session_manajer,jidokaacademy.session_manajer,model_jidokaacademy_session,jidokaacademy.jidokaacademy_manajer,1,1,1,1
+access_jidokaacademy_course,jidokaacademy.course,model_jidokaacademy_course,,1,0,0,0
+access_jidokaacademy_session,jidokaacademy.session,model_jidokaacademy_session,,1,0,0,0
+access_wizard_attendees,jidokaacademy.wizard_attendees,model_wizard_attendees,,1,1,1,1
